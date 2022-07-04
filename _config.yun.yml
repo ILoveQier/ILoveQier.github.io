@@ -1,0 +1,8 @@
+avatar:
+  url: /images/hello.png # 你的头像图片地址
+  rounded: true
+  opacity: 1
+colors:
+  primary: '#000000'
+banner:
+  title: '鱼虾的小站'
